@@ -15,7 +15,7 @@ class Pushar {
     public function printKeys() {
         return [
             'apukey' => $this->apikey,
-            'apukey' => $this->apisecret,
+            'apisecret' => $this->apisecret,
         ];
     }
 
