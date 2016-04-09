@@ -12,4 +12,11 @@ class Pushar {
         $this->apisecret = $apisecret;
     }
 
+    public function printKeys() {
+        return [
+            'apukey' => $this->apikey,
+            'apukey' => $this->apisecret,
+        ];
+    }
+
 }
