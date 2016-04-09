@@ -1,6 +1,6 @@
 <?php
 
-namespace \phpvikas;
+namespace phpvikas;
 
 class Pushar {
 
